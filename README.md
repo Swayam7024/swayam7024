@@ -32,7 +32,7 @@
 ## 📫 Connect With Me
 
 <p align="left">
-  <a href="swayamkhantwal225@gail.com">
+  <a href="mailto:swayamkhantwal225@gail.com">
     <img align="center" src="https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/swayam7024">
