@@ -38,6 +38,9 @@
   <a href="https://github.com/swayam7024">
     <img align="center" src="https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white" />
   </a>
+    <a href="https://linkedin.com/in/swayam-khantwal-77533b3b3">
+    <img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" />
+  </a>
 </p>
 
 ---
